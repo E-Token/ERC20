@@ -44,12 +44,19 @@ party applications to marketplace players through the blockchain.
 **Contract Detail**
 
  Token Name : E-Token
+
  Token Simbol : Alief
+
  Token Type : ERC20
+
  Token Suply : 200,000,000
+
  Token Decimals : 0
+
  Whitepaper : https://e-token.co/etokenszp.pdf
+
  Explorer : https://etherscan.io/address/0xbA71B32e71a41339Aa4CEAa79528535AEFE488D8
+
  Exchange : https://etherdelta.com/#ALIEF-ETH
 
 E-Token Team
